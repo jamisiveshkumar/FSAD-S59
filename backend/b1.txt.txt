@@ -1,1 +1,0 @@
-i am ready to develop backend implementation code for FSAD Application
